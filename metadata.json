@@ -50,5 +50,18 @@
         "created_at": "2026-07-24T08:59:11.131Z",
         "updated_at": "2026-07-24T08:59:11.131Z",
         "type": "plugin"
+    },
+    {
+        "id": "QdY78dYUtkM3cTazJiZLRfNVfQZWkx_W",
+        "plugin": "task-gantt",
+        "language": "zh-cn",
+        "version": "1.1.0",
+        "supported_versions": "1.1.0",
+        "title": "Task Gantt",
+        "description": "Task Gantt Localization & Tweaks",
+        "hash": "7d67fd2e7d67fd2e7d67fd2e7d67fd2e",
+        "created_at": "2026-07-24T08:59:22.813Z",
+        "updated_at": "2026-07-24T08:59:22.813Z",
+        "type": "plugin"
     }
 ]
