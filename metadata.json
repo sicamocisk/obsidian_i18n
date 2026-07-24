@@ -37,5 +37,18 @@
         "created_at": "2026-07-24T08:59:01.601Z",
         "updated_at": "2026-07-24T08:59:01.601Z",
         "type": "plugin"
+    },
+    {
+        "id": "nGOmq0XoqCLrri5bKG9UEzeDQf1yCbZ4",
+        "plugin": "project-manager",
+        "language": "zh-cn",
+        "version": "1.5.0",
+        "supported_versions": "1.5.0",
+        "title": "Project Manager",
+        "description": "Project Manager Localization & Tweaks",
+        "hash": "1fc2ede41fc2ede41fc2ede41fc2ede4",
+        "created_at": "2026-07-24T08:59:11.131Z",
+        "updated_at": "2026-07-24T08:59:11.131Z",
+        "type": "plugin"
     }
 ]
